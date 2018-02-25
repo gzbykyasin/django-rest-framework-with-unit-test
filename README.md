@@ -3,8 +3,7 @@ Django Rest Framework ( Test Driven Development )
 <h2>Installation</h2>
 <pre>$ pip install djangorestframework</pre>
 <h2>Usage</h2>
-<b>Update setting.py</b>
-<i>settings.py</i>
+<b>Update settings.py</b>
 <pre> 
 # REST Framework
 INSTALLED_APPS = [
