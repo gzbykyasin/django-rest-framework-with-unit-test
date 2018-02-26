@@ -1,7 +1,25 @@
-# rest-framework-with-unittest
-Django Rest Framework ( Test Driven Development )
+# Django REST Framework with Unit TEST
+
 <h2>Installation</h2>
-<pre>$ pip install djangorestframework</pre>
+<b>create a folder in login directory</b>
+<pre>
+mkdir djangorest
+cd djangorest
+</pre>
+<b>create a virtualenv named env</b>
+<pre>
+python3 -m venv env
+</pre>
+<b>Verify that virtualenv is working. (at the beginning of the command request (env))</b>
+<pre>
+(env) ~$ pip install --upgrade pip
+</pre>
+<b>then install django</b>
+<pre>
+(env) ~$ pip3 install django
+</pre>
+<b><install the rest framework</b>
+<pre>(env) ~$ pip3 install djangorestframework</pre>
 <h2>Usage</h2>
 <b>Update settings.py</b>
 <pre> 
